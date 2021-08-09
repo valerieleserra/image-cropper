@@ -58,3 +58,11 @@ a:hover {
   align-items: center;
   margin: 20px 0;
 }
+
+.save-btn {
+  z-index: 20;
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  background-color: #ffe321;
+}
